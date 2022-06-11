@@ -1,2 +1,2 @@
-# vocab-building
+# react-typescript-example
 Created with CodeSandbox

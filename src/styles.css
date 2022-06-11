@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Counter {
+  font-family: sans-serif;
+  margin-right: auto;
+}
+
+.MuiPaper-elevation1 {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
+.Answer {
+  display: "none";
+}
+
+.CardContainer {
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+#outlined-uncontrolled {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
